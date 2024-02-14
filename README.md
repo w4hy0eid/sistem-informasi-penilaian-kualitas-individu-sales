@@ -1,3 +1,5 @@
+## Sistem Informasi Penilaian Kualitas Individu Terhadap Penjualan T3lkom
+
 ## PERHITUNGAN REALISASI SCALING
 = RealisasiPot + RealisasiConnecivity + RealisasiDigital + RealisasiEksis + RealisasiWifi
 
@@ -20,3 +22,6 @@
 
 ## KET. ACH SUSTAIN CM AGUSTUS
 = DF2<100%;"<100%";">100%"
+
+
+Telegram : @Lastmanstanding7
